@@ -7,6 +7,8 @@ public class Demo2 {
 		System.out.println("Demo2 added");
 		
 		System.out.println("demo2 updated");
+		
+		System.out.println("Demo2 updated 2nd time");
 	}
 
 }
