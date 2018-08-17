@@ -1,0 +1,7 @@
+<suite name="demo">
+	<test name="edgeTest">
+		<classes>
+			<class name="com.tng.ohrm.OhrmAddEmployee"></class>
+		</classes>
+	</test>
+</suite>
